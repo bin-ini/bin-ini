@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Bindiya 👋
 
-<!--
-**bin-ini/bin-ini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontier AI & Cloud Security | Microsoft GBB | PhD in Mathematics
 
-Here are some ideas to get you started:
+I am a Global Black Belt (GBB) - EMEA, in Frontier AI Security at Microsoft, specializing in the intersection of advanced mathematics, artificial intelligence, and enterprise cloud security architecture. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work focuses on engineering secure cloud-native environments, pioneering AI-augmented vulnerability discovery, and bridging the gap between theoretical math and practical cyber defense.
+
+### 🔭 What I focus on
+* **Agentic SOC & Cloud Security:** Developing automated deployment strategies (Infrastructure as Code) for Azure Sentinel and enterprise SIEM platforms.
+* **AI-Security Research:** Exploring and defining AI vulnerability discovery frameworks (MDASH, Mythos) for frontier enterprise architecture.
+* **Technical Publications:** Authoring peer-reviewed research papers (including *Measured or Inferred: Affect*) and comprehensive technical blogs analyzing security ecosystems.
+* **Thought Leadership:** Currently authoring a book on advanced security concepts and serving as a recognized technical authority in the field.
+
+### 🛠️ Core Domains & Technologies
+* **Security Architecture:** Microsoft Security Suite, Azure Sentinel, SIEM/SOAR, AI-Sec Baselines
+* **Research & Analytics:** Applied Mathematics, Threat Modeling, Harmonic Data Analysis 
+* **Engineering:** PowerShell, Jupyter Notebooks, Infrastructure as Code
+
+### 📫 Connect with me
+* **Professional Network:** [LinkedIn](https://linkedin.com/in/bindiyapriyadarshini)
+* **Technical Writing:** [Medium](https://bindiyapriyadarshini.medium.com)
