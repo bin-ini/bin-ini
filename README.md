@@ -11,7 +11,7 @@ My work focuses on engineering secure cloud-native environments, pioneering AI-a
 * **AI-Security Research:** Exploring and defining AI vulnerability discovery frameworks (MDASH, Mythos) for frontier enterprise architecture.
 * **Technical Publications:** Authoring peer-reviewed research papers (including *Measured or Inferred: Affect*) and comprehensive technical blogs analyzing security ecosystems.
 * **Thought Leadership:** Currently authoring a book on advanced security concepts and serving as a recognized technical authority in the field.
-* - **Agent Governance Research:** Building falsifiable methods for evaluating
+* **Agent Governance Research:** Building falsifiable methods for evaluating
 **Agent Governance Research:** Building falsifiable methods for evaluating the security controls around AI agent tool ecosystems — [mcp-governance-validation](https://github.com/bin-ini/mcp-governance-validation)
 
 
