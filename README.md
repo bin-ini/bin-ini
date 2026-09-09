@@ -1,8 +1,8 @@
-# Hi, I'm Bindiya 👋
+# Hi, 👋
 
 ### Frontier AI & Cloud Security | Microsoft GBB | PhD in Mathematics
 
-I am a Global Black Belt (GBB) - EMEA, for Frontier AI Security at Microsoft, specializing in the intersection of advanced mathematics, artificial intelligence, and enterprise cloud security architecture. 
+I am a GBB - EMEA, for Frontier AI Security at Microsoft, specializing in the intersection of advanced mathematics, artificial intelligence, and enterprise cloud security architecture. 
 
 My work focuses on engineering secure cloud-native environments, pioneering AI-augmented vulnerability discovery, and bridging the gap between theoretical math and practical cyber defense.
 
